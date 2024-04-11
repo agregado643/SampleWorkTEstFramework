@@ -1,0 +1,2 @@
+filename,invoicenumber,AccountNumber,PeriodStartDate,PeriodEndDate,BillDate,DueDate,BillPreviousBalance,BillPastDueBalance,BillPaymentReceived,BillBalance,carrier,doesreconcile
+Invoices_17d2e13b-d182-43b9-a7e9-3efaad963f88.pdf,9930783489,78009587700013,2023-02-23,2023-03-22,2023-04-14,2023-04-14,592.46,0.00,0.00,656.26,verizon,True

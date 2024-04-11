@@ -1,0 +1,4 @@
+filename,invoicenumber,AccountNumber,PeriodStartDate,PeriodEndDate,BillDate,DueDate,BillPreviousBalance,BillPastDueBalance,BillPaymentReceived,BillBalance,carrier
+Invoices_ver2.pdf,9937209465,48321585100003,2023-05-14,2023-06-13,2023-06-13,2023-06-13,3235.00,-3235.00,-6470.00,-172.33,verizon
+Invoices_ver3.pdf,9937228987,68104409700001,2023-05-14,2023-06-13,2023-06-13,2023-07-05,28315.61,-2309.56,-24341.37,23460.06,verizon
+Invoices_ver4.pdf,9937238844,78104040700005,2023-05-14,2023-06-13,2023-06-13,2023-07-05,1485.82,0.00,-1485.82,1560.94,verizon

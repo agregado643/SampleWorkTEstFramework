@@ -1,0 +1,2 @@
+filename,invoicenumber,AccountNumber,PeriodStartDate,PeriodEndDate,BillDate,DueDate,BillPreviousBalance,BillPastDueBalance,BillPaymentReceived,BillBalance,carrier
+Invoices_ver1.pdf,98283505320230801,,2023-07-01,2023-07-31,2023-08-01,2023-08-22,186.78,93.39,-93.39,186.78,tmobile
